@@ -1,5 +1,5 @@
 # Minecraft Auto Mod Downloader
-### <h2 align="center"> <i> <b> A Python script which automatically download mods from a given list. </b> </i> </h2>
+### <h2 align="center"> <i> <b> A Python script which automatically downloads mods from a given list. </b> </i> </h2>
 
 <br>
 <hr>
