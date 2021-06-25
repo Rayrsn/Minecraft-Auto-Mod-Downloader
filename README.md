@@ -22,6 +22,8 @@ pip install pretty-downloader
 
 ![modpack.ver](https://github.com/Rayrsn/Minecraft-Auto-Mod-Downloader/raw/main/images/modpack.ver.png?raw=true)
 
+* Edit "modlistlink" and "versionLink" to the correct format.
+
 
 ## Setting up and Running the script from source
 1. Open the script with a text editor.
