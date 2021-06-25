@@ -24,8 +24,6 @@ pip install pretty-downloader
 
 
 ## Setting up and Running the script from source
-* I suggest heading to the [Releases](https://github.com/Rayrsn/Minecraft-Auto-Mod-Downloader/releases/latest) tab and downloading the latest version. (Only works with TLauncher, I might add other clients too idk.)
-
 1. Open the script with a text editor.
 2. Edit lines 6 and 7 ("modlistlink", "versionLink") to the correct values. (Read [Requirements](https://github.com/Rayrsn/Minecraft-Auto-Mod-Downloader/blob/main/README.md#requirements).)
 3. Change line 11 to your preferred launcher. (You might have to change the "AppData" values if the launcher is ***not*** located in the "AppData/Roaming/.minecraft" directory.)
