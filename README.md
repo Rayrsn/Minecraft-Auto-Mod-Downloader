@@ -44,3 +44,6 @@ pyinstaller --onefile main.py
 4. Your file will be located in the "dist" directory.
 * You can also give it an icon by adding --icon=<Icon_Name>.ico parameter to this line.
 * You can replace your minecraft shortcut with this .exe file
+
+## Questions ⁉️
+### If yall have any questions or just wanna talk, add me on [Discord](https://rayr.ml/LinkInBio) or use my username Rayr#6401 (this might change so it's better to just use the link)
